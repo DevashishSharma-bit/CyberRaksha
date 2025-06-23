@@ -1,5 +1,8 @@
 # 🛡️ CyberRakshak AI – India's First AI Scam Shield
 
+## Demo
+Watch the demo: [Demo Video](assets/your-video.mp4)
+
 **CyberRakshak AI** is an AI-powered Telegram bot that helps users detect and respond to online scams like phishing, UPI frauds, fake job offers, and malicious links. Built with Python, NLP techniques, and the Google Safe Browsing API, it explains threats in regional languages and provides emergency action steps.
 
 ---
